@@ -1,0 +1,18 @@
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\bin\Debug\net6.0-windows\Fuel software.exe
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\bin\Debug\net6.0-windows\Fuel software.deps.json
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\bin\Debug\net6.0-windows\Fuel software.runtimeconfig.json
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\bin\Debug\net6.0-windows\Fuel software.dll
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\bin\Debug\net6.0-windows\Fuel software.pdb
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\Fuel software.csproj.AssemblyReference.cache
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\Fuel_software.Form1.resources
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\Fuel_software.Properties.Resources.resources
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\Fuel software.csproj.GenerateResource.cache
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\Fuel software.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\Fuel software.AssemblyInfoInputs.cache
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\Fuel software.AssemblyInfo.cs
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\Fuel software.csproj.CoreCompileInputs.cache
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\Fuel software.dll
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\refint\Fuel software.dll
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\Fuel software.pdb
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\Fuel software.genruntimeconfig.cache
+C:\Users\Meshith\source\repos\Fuel software\Fuel software\obj\Debug\net6.0-windows\ref\Fuel software.dll
