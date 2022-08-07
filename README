@@ -1,7 +1,1 @@
-echo "# Fuel-Software" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Meshydra/Fuel-Software.git
-git push -u origin main
+Software to create fuel queues shorter
